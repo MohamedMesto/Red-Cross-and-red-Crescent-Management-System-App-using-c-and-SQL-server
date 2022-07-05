@@ -24,17 +24,20 @@
 
 # Red Cross and red Crescent Management System App using C# and SQL server
 
-# Video Streaming Mixer Library
+
 <h5> At <a href="https://www.linkedin.com/company/syredcrescent/">the  International Committee of the Red Cross </a> & <a href="https://www.linkedin.com/company/syredcrescent/">the Syrian Arab Red Crescent
 </a></h5> 
 
 Will uploaded soon
 
+# Application development stages 
+- System Analysis 
+- Database Analysis
+- Database Modeling
+- Database building 
+- Application user interfaces building (which include family names - food distribution / food supply - supply of medicine, cosmetics etc. - stock management - User administration - general reports - ...- ))
+- Support the system during three years.
 
-Video Streaming Mixer Library: In order to create e.g. playlists consisting of multiple existing different video streams it is needed to make sure that the different video stream sources are all compatible in regards to video resolution and bitrate and can be combined into a single video stream.
-
-## Figures
-the figures are created via Draw.io
 
 ## Contributors
 - Mohamed Mesto, m.mesto@campus.tu-berlin.de , Mohamedmesto111@gmail.com
@@ -42,17 +45,18 @@ the figures are created via Draw.io
 ## Technologies :computer: 
 
 ### Frontend
-- React JS
-- React Hooks
-- Material-UI
-- Javascript
-- HTML and CSS
+- C#.net
+- Photoshop
+- 
 
 ### Backend
-- Express JS
+- C#.net
 
 ### Database
 - SQL Server
+
+# Applicants System 
+
 
 ## Stretch Goals :goal_net:
 
