@@ -13,11 +13,11 @@
 </tr>
   <tr>
     <td> </td>
-<td align="center"><h5><a href="https://github.com/fraunhoferfokus">"Video Streaming Mixer Library"</a></h5></td>
+<td align="center"><h5><a href="">"Management System App"</a></h5></td>
     <td> </td>
 </tr>
   <tr>
-    <td> </td>  <td align="center"><a href='https://www.linkedin.com/in/alexander-futasz/'> Ph.D. Student Eng. Alexander Futász</a></td>
+    <td> </td>  <td align="center"><a href=''> </a></td>
     <td> </td>
 </tr>
 </table>
@@ -30,7 +30,7 @@
 
 Will uploaded soon
 
-# Application development stages 
+# Application Development Stages 
 - System Analysis 
 - Database Analysis
 - Database Modeling
