@@ -1,9 +1,9 @@
 <table border=0>
 <tr border=0>
-<td> <img align="left"  alt="Mohamed Mesto" width="100px" height='60px' src="https://media-exp1.licdn.com/dms/image/C4D0BAQG2dcsffcnW2A/company-logo_200_200/0/1519952588037?e=1665014400&v=beta&t=fOSo9MNT_KYVGQti0PUrUly8JRWjCfzQaDLq5YFEq9k"/> </td>
-  <td align="center"> <h5><a href="https://www.icrc.org/en">by International Committee of the Red Cross.</a></h5> & <h5><a href="https://www.ifrc.org/">Syrian Arab Red Crescent
+<td> <img align="left"  alt="Mohamed Mesto" width="100px" height='100px' src="https://media-exp1.licdn.com/dms/image/C4D0BAQG2dcsffcnW2A/company-logo_200_200/0/1519952588037?e=1665014400&v=beta&t=fOSo9MNT_KYVGQti0PUrUly8JRWjCfzQaDLq5YFEq9k"/> </td>
+  <td align="center"> <h5> At<a href="https://www.icrc.org/en">the  International Committee of the Red Cross </a> & <a href="https://sarc.sy/home/">the Syrian Arab Red Crescent
 </a></h5> </td>
-  <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='60px' src="https://www.fokus.fraunhofer.de/assets/logo-860812875da0f0aa4d5ea48e795aac93b09affdb637eae121b367da604de8737.png"/></td>
+  <td>  <img align="right"  alt="Mohamed Mesto" width="100px" height='100px' src="https://sarc.sy/wp-content/uploads/2021/03/SARC-Logo-2.png"/></td>
 </tr>
 <tr border=0>
 <td> </td><td  align="center"> <h5> Project Topic </h5> </td><td> </td>
