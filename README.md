@@ -60,14 +60,6 @@ Will uploaded soon
 
 ## Stretch Goals :goal_net:
 
-- Send notifications from admin to applicants.
-- Add new cohorts,technical tasks and project from admin dashboard.
-- Add a new application from  the admin dashboard and control its settings.
-- Add a percentage progress bar in applicant profile page. 
-- Add page for common asked questions.
-- Add admin users  from dashbboard.
-
-
 
 
 
@@ -80,6 +72,3 @@ Will uploaded soon
 
 
 
-
-# Red-Cross-and-red-Crescent-Management-System-App-using-c-and-SQL-server
-Red Cross and red Crescent Management System App using c# and SQL server
