@@ -1,7 +1,7 @@
 <table border=0>
 <tr border=0>
 <td> <img align="left"  alt="Mohamed Mesto" width="100px" height='100px' src="https://media-exp1.licdn.com/dms/image/C4D0BAQG2dcsffcnW2A/company-logo_200_200/0/1519952588037?e=1665014400&v=beta&t=fOSo9MNT_KYVGQti0PUrUly8JRWjCfzQaDLq5YFEq9k"/> </td>
-  <td align="center"> <h5> At<a href="https://www.icrc.org/en">the  International Committee of the Red Cross </a> & <a href="https://sarc.sy/home/">the Syrian Arab Red Crescent
+  <td align="center"> <h5> At <a href="https://www.icrc.org/en">the  International Committee of the Red Cross </a> & <a href="https://sarc.sy/home/">the Syrian Arab Red Crescent
 </a></h5> </td>
   <td>  <img align="right"  alt="Mohamed Mesto" width="100px" height='100px' src="https://sarc.sy/wp-content/uploads/2021/03/SARC-Logo-2.png"/></td>
 </tr>
@@ -22,11 +22,13 @@
 </tr>
 </table>
 
-# Advanced Web Technologies Project summersemester 2022 - Group 1
-# Video Streaming Mixer Library
-by Fraunhofer-Institut für Offene Kommunikationssysteme FOKUS.
+# Red Cross and red Crescent Management System App using C# and SQL server
 
-In progress 042022-092022
+# Video Streaming Mixer Library
+<h5> At <a href="https://www.linkedin.com/company/syredcrescent/">the  International Committee of the Red Cross </a> & <a href="https://www.linkedin.com/company/syredcrescent/">the Syrian Arab Red Crescent
+</a></h5> 
+
+Will uploaded soon
 
 
 Video Streaming Mixer Library: In order to create e.g. playlists consisting of multiple existing different video streams it is needed to make sure that the different video stream sources are all compatible in regards to video resolution and bitrate and can be combined into a single video stream.
